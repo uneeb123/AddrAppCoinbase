@@ -30,15 +30,12 @@ export default class HomePage extends Component<{}> {
     });
   }
 
-  _processCode(code) {
-    var { access_token, refresh_token } = this._getToken(code);
-    var Client = require('coinbase').Client;
-    var client = new Client({'accessToken': accessToken, 'refreshToken': refreshToken});
-    client.getAccounts({}, function(err, accounts) {
-      accounts.forEach(function(acct) {
-        console.log('my bal: ' + acct.balance.amount + ' for ' + acct.name);
-      });
-    })
+  async _processCode(code) {
+    var { access_token, refresh_token } = await this._getToken(code);
+    var response = await this._getAccount(access_token);
+    var account = response.data
+    console.log(Object.keys(account));
+    console.log(account.name);
   }
 
   async _getToken(code) {
@@ -57,7 +54,6 @@ export default class HomePage extends Component<{}> {
       );
       let data = await response.json();
       console.log(data);
-      this._getAccount(data.access_token);
       return data;
     } catch(error) {
       console.log(error);
@@ -66,7 +62,6 @@ export default class HomePage extends Component<{}> {
 
   async _getAccount(token) {
     try {
-      console.log(token);
       var header = new Headers();
       header.append('Authorization', 'Bearer ' + token);
       header.append('CB-VERSION', '2017-07-11');
@@ -75,7 +70,7 @@ export default class HomePage extends Component<{}> {
           headers: header,
         });
       let responseJson = await response.json();
-      console.log(responseJson);
+      return responseJson;
     } catch (error) {
       console.error(error);
     }
