@@ -5,7 +5,8 @@ import {
   Text,
   View,
   Button,
-  Linking
+  Linking,
+  AsyncStorage,
 } from 'react-native';
 import FormData from 'form-data';
 
@@ -33,12 +34,18 @@ export default class ImportPage extends Component<{}> {
       var parsedUrl = url.parse(event.url);
       var query = parsedUrl.query
       var code = query.split('=')[1];
-      Home._processCode(code);
+      Home._importWallet(code);
     });
   }
-
-  async _processCode(code) {
+  
+  async _importWallet(code) {
     var { access_token, refresh_token } = await this._getToken(code);
+    await AsyncStorage.setItem('access_token', access_token);
+    await AsyncStorage.setItem('refresh_token', refresh_token);
+    Home._processCode(access_token);
+  }
+
+  async _processCode(access_token) {
     var userData = await this._getUser(access_token);
     var rawUser = userData.data;
     this.user.name = rawUser.name;
