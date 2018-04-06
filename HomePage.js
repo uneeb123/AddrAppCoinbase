@@ -15,7 +15,8 @@ export default class HomePage extends Component<{}> {
   };
 
   _authorize = () => {
-    const auth_link = "https://www.coinbase.com/oauth/authorize?client_id=263f6916563d418f2438b4165728028481dd9058ad2ad7fff022ff36848d05c4&redirect_uri=addr-app%3A%2F%2Fcoinbase-oauth&response_type=code&scope=wallet%3Auser%3Aread"
+    const scope = encodeURIComponent("wallet:user:read,wallet:addresses:read,wallet:buys:read,wallet:deposits:read,wallet:sells:read,wallet:transactions:read,wallet:accounts:read,wallet:withdrawals:read");
+    const auth_link = "https://www.coinbase.com/oauth/authorize?client_id=263f6916563d418f2438b4165728028481dd9058ad2ad7fff022ff36848d05c4&redirect_uri=addr-app%3A%2F%2Fcoinbase-oauth&response_type=code&scope=" + scope;
     Linking.openURL(auth_link).catch(err => console.error('An error occurred', err));
   }
 
@@ -32,10 +33,14 @@ export default class HomePage extends Component<{}> {
 
   async _processCode(code) {
     var { access_token, refresh_token } = await this._getToken(code);
-    var response = await this._getAccount(access_token);
-    var account = response.data
-    console.log(Object.keys(account));
-    console.log(account.name);
+    this._getUser(access_token);
+    var accounts = await this._listAccounts(access_token);
+    var account_id = accounts.data[0].id;
+    var response1 = await this._listAddresses(access_token, account_id);
+    var lastAddress = response1.data[0].address;
+    console.log("Addr: " + lastAddress);
+    var response2 = await this._listTransactions(access_token, account_id);
+    this._processRawTransactions(response2.data);
   }
 
   async _getToken(code) {
@@ -53,20 +58,19 @@ export default class HomePage extends Component<{}> {
         }
       );
       let data = await response.json();
-      console.log(data);
       return data;
     } catch(error) {
       console.log(error);
     }
   }
 
-  async _getAccount(token) {
+  async _callApi(token, endpoint) {
     try {
       var header = new Headers();
       header.append('Authorization', 'Bearer ' + token);
       header.append('CB-VERSION', '2017-07-11');
       let response = await fetch(
-        'https://api.coinbase.com/v2/user', {
+        endpoint, {
           headers: header,
         });
       let responseJson = await response.json();
@@ -76,11 +80,48 @@ export default class HomePage extends Component<{}> {
     }
   }
 
-  componentWillUnmount() {
-    Linking.removeEventListener('url', () => {});
+  _listAddresses(token, id) {
+    return this._callApi(token, 'https://api.coinbase.com/v2/accounts/' + id + '/addresses');
   }
 
-  _handleOpenURL(event, callback) {
+  _getUser(token) {
+    return this._callApi(token, 'https://api.coinbase.com/v2/user');
+  }
+
+  _listAccounts(token) {
+    return this._callApi(token, 'https://api.coinbase.com/v2/accounts');
+  }
+
+  _listTransactions(token, id) {
+    return this._callApi(token, 'https://api.coinbase.com/v2/accounts/' + id + '/transactions');
+  }
+
+  _processRawTransactions(raw) {
+    raw.forEach((raw_tx) => {
+      this._processRawTransaction(raw_tx);
+    });
+  }
+
+  _processRawTransaction(raw) {
+    if (raw.type == 'send') {
+      tx = {};
+      tx.status = raw.status;
+      tx.amount_BTC = raw.amount.amount;
+      tx.amount_USD = raw.native_amount.amount;
+      tx.create_date = raw.created_at;
+      if (raw.to != null) {
+        tx.to_address = raw.to? raw.to.address: null;
+      }
+      tx.description = raw.description;
+      if (raw.network != null && raw.network.transaction != null) {
+        tx.fee_BTC = raw.network.transaction_fee.amount;
+      }
+      console.log(tx);
+    }
+  }
+
+  componentWillUnmount() {
+    Linking.removeEventListener('url', () => {});
   }
 
   render() {
