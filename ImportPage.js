@@ -28,6 +28,7 @@ export default class ImportPage extends Component<{}> {
   }
 
   componentDidMount() {
+    this._loadWallet();
     Home = this;
     Linking.addEventListener('url', (event) => {
       var url = require('url');
@@ -37,10 +38,23 @@ export default class ImportPage extends Component<{}> {
       Home._importWallet(code);
     });
   }
-  
+
+  async _loadWallet() {
+    try {
+      var rt = await AsyncStorage.getItem('refresh_token');
+      if (rt !== null){
+        var { access_token, refresh_token } = await this._refreshToken(rt);
+        await AsyncStorage.removeItem('refresh_token');
+        await AsyncStorage.setItem('refresh_token', refresh_token);
+        this._processCode(access_token);
+      }
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
   async _importWallet(code) {
     var { access_token, refresh_token } = await this._getToken(code);
-    await AsyncStorage.setItem('access_token', access_token);
     await AsyncStorage.setItem('refresh_token', refresh_token);
     Home._processCode(access_token);
   }
@@ -73,6 +87,26 @@ export default class ImportPage extends Component<{}> {
       form.append('client_id', '263f6916563d418f2438b4165728028481dd9058ad2ad7fff022ff36848d05c4');
       form.append('client_secret', 'bec712b0b2eeea68d612b0605cbf3abae91901b68cbf7d6cfbc9aa6a33771fec');
       form.append('redirect_uri', 'addr-app://coinbase-oauth');
+      let response = await fetch(
+        'https://api.coinbase.com/oauth/token', {
+          method: 'POST',
+          body: form,
+        }
+      );
+      let data = await response.json();
+      return data;
+    } catch(error) {
+      console.log(error);
+    }
+  }
+
+  async _refreshToken(refresh_token) {
+    try {
+      const form = new FormData();
+      form.append('grant_type', 'refresh_token');
+      form.append('client_id', '263f6916563d418f2438b4165728028481dd9058ad2ad7fff022ff36848d05c4');
+      form.append('client_secret', 'bec712b0b2eeea68d612b0605cbf3abae91901b68cbf7d6cfbc9aa6a33771fec');
+      form.append('refresh_token', refresh_token); 
       let response = await fetch(
         'https://api.coinbase.com/oauth/token', {
           method: 'POST',
