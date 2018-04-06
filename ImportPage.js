@@ -25,6 +25,7 @@ export default class ImportPage extends Component<{}> {
   constructor(props) {
     super(props);
     this.user = {};
+    this.transaction_history = [];
   }
 
   componentDidMount() {
@@ -48,6 +49,9 @@ export default class ImportPage extends Component<{}> {
         await AsyncStorage.setItem('refresh_token', refresh_token);
         this._processCode(access_token);
       }
+      else {
+        console.log("Refresh token not there");
+      }
     } catch (error) {
       console.log(error);
     }
@@ -69,14 +73,13 @@ export default class ImportPage extends Component<{}> {
     this.user.account_id = rawAccount.id;
     this.user.currency_code = rawAccount.currency.code;
     this.user.balance = rawAccount.balance.amount;
-    console.log(accounts);
     var account_id = accounts.data[0].id; // first account
     var response1 = await this._listAddresses(access_token, account_id);
     this.user.address = response1.data[0].address;
     var response2 = await this._listTransactions(access_token, account_id);
-    this._processRawTransactions(response2.data);
+    await this._processRawTransactions(response2.data);
     const { navigate } = this.props.navigation;
-    navigate('History', {user: this.user});
+    navigate('History', {user: this.user, transaction_history: this.transaction_history, access_token: access_token});
   }
 
   async _getToken(code) {
@@ -169,10 +172,10 @@ export default class ImportPage extends Component<{}> {
         tx.to_address = raw.to? raw.to.address: null;
       }
       tx.description = raw.description;
-      if (raw.network != null && raw.network.transaction != null) {
+      if (raw.network != null && raw.network.transaction_fee != null) {
         tx.fee_BTC = raw.network.transaction_fee.amount;
       }
-      console.log(tx);
+      this.transaction_history.push(tx);
     }
   }
 
