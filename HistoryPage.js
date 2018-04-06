@@ -49,6 +49,11 @@ export default class HistoryPage extends Component<{}> {
     }
   }
 
+  _goToSendPage = () => {
+    const { navigate } = this.props.navigation;
+    navigate('Send', {access_token: this.access_token, user: this.user});
+  }
+
   render() {
     return (
       <View style={styles.overall}>
@@ -64,7 +69,7 @@ export default class HistoryPage extends Component<{}> {
             keyExtractor={(item, index) => index.toString()}
           />
         </View>
-        <Button style={styles.sendButton} title='Send money' onPress={()=>{}}/>
+        <Button style={styles.sendButton} title='Send money' onPress={this._goToSendPage} />
       </View>
     );
   }
@@ -72,8 +77,10 @@ export default class HistoryPage extends Component<{}> {
 
 const styles = StyleSheet.create({
   account_container: {
-    margin: 10,
+    padding: 10,
     flex: 1,
+    backgroundColor: '#fff',
+    elevation: 5,
   },
   history_container: {
     margin: 10,

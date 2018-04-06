@@ -43,8 +43,10 @@ export default class ImportPage extends Component<{}> {
   async _loadWallet() {
     try {
       var rt = await AsyncStorage.getItem('refresh_token');
+      console.log("Refresh token found!");
       if (rt !== null){
         var { access_token, refresh_token } = await this._refreshToken(rt);
+        console.log("Access token successfully retrieved from Refresh token");
         await AsyncStorage.removeItem('refresh_token');
         await AsyncStorage.setItem('refresh_token', refresh_token);
         this._processCode(access_token);
