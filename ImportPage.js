@@ -9,15 +9,21 @@ import {
 } from 'react-native';
 import FormData from 'form-data';
 
-export default class HomePage extends Component<{}> {
+export default class ImportPage extends Component<{}> {
   static navigationOptions = {
     title: 'Addr',
+    header: null,
   };
 
   _authorize = () => {
     const scope = encodeURIComponent("wallet:user:read,wallet:addresses:read,wallet:buys:read,wallet:deposits:read,wallet:sells:read,wallet:transactions:read,wallet:accounts:read,wallet:withdrawals:read");
     const auth_link = "https://www.coinbase.com/oauth/authorize?client_id=263f6916563d418f2438b4165728028481dd9058ad2ad7fff022ff36848d05c4&redirect_uri=addr-app%3A%2F%2Fcoinbase-oauth&response_type=code&scope=" + scope;
     Linking.openURL(auth_link).catch(err => console.error('An error occurred', err));
+  }
+
+  constructor(props) {
+    super(props);
+    this.user = {};
   }
 
   componentDidMount() {
@@ -33,14 +39,23 @@ export default class HomePage extends Component<{}> {
 
   async _processCode(code) {
     var { access_token, refresh_token } = await this._getToken(code);
-    this._getUser(access_token);
+    var userData = await this._getUser(access_token);
+    var rawUser = userData.data;
+    this.user.name = rawUser.name;
+    this.user.id = rawUser.id;
     var accounts = await this._listAccounts(access_token);
-    var account_id = accounts.data[0].id;
+    var rawAccount = accounts.data[0];
+    this.user.account_id = rawAccount.id;
+    this.user.currency_code = rawAccount.currency.code;
+    this.user.balance = rawAccount.balance.amount;
+    console.log(accounts);
+    var account_id = accounts.data[0].id; // first account
     var response1 = await this._listAddresses(access_token, account_id);
-    var lastAddress = response1.data[0].address;
-    console.log("Addr: " + lastAddress);
+    this.user.address = response1.data[0].address;
     var response2 = await this._listTransactions(access_token, account_id);
     this._processRawTransactions(response2.data);
+    const { navigate } = this.props.navigation;
+    navigate('History', {user: this.user});
   }
 
   async _getToken(code) {
@@ -127,13 +142,9 @@ export default class HomePage extends Component<{}> {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-      <Button
-        onPress={this._authorize}
-        title="Auth"
-        color="#841584" />
+        <Button
+          onPress={this._authorize}
+          title="Import Coinbase wallet" />
       </View>
     );
   }

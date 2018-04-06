@@ -1,9 +1,16 @@
 import {
   StackNavigator,
 } from 'react-navigation';
-import HomePage from './HomePage';
+import ImportPage from './ImportPage';
+import HistoryPage from './HistoryPage';
 
-const App = StackNavigator({
-  Home: { screen: HomePage },
-});
+const App = StackNavigator(
+  {
+    Import: { screen: ImportPage},
+    History: { screen: HistoryPage },
+  },
+  {
+    initialRouteName: 'Import',
+  }
+);
 export default App;
