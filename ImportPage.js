@@ -47,6 +47,7 @@ export default class ImportPage extends Component<{}> {
     navigate('History', {
       user: this.processor.user,
       transaction_history: this.processor.transaction_history,
+      buy_history: this.processor.buy_history,
       access_token: access_token
     });
   }

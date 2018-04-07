@@ -2,6 +2,7 @@ export default class TokenProcessor {
   constructor() {
     this.user = {};
     this.transaction_history = [];
+    this.buy_history = [];
   }
 
   async processCode(access_token) {
@@ -28,7 +29,19 @@ export default class TokenProcessor {
   }
 
   processRawTransaction(raw) {
-    if (raw.type == 'send') {
+    // for now both buy and sell are part of buy history
+    // they can be bundled together because you can differentiate
+    // them by looking at the amount. they are mostly identical
+    if (raw.type == 'buy' || raw.type == 'sell') {
+      buy = {};
+      buy.status = raw.status;
+      buy.amount_BTC = raw.amount.amount;
+      buy.amount_USD = raw.native_amount.amount;
+      buy.create_date = raw.created_at;
+      this.buy_history.push(tx);
+
+    }
+    else if (raw.type == 'send') {
       tx = {};
       tx.status = raw.status;
       tx.amount_BTC = raw.amount.amount;
@@ -42,6 +55,9 @@ export default class TokenProcessor {
         tx.fee_BTC = raw.network.transaction_fee.amount;
       }
       this.transaction_history.push(tx);
+    }
+    else {
+      console.log(raw);
     }
   }
 

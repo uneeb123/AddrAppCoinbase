@@ -45,6 +45,7 @@ export default class HistoryPage extends Component<{}> {
     if (params) {
       this.user = params.user;
       this.transaction_history = params.transaction_history;
+      this.buy_history = params.buy_history;
       this.access_token = params.access_token;
     }
   }
@@ -83,11 +84,11 @@ const styles = StyleSheet.create({
     elevation: 5,
   },
   history_container: {
-    margin: 10,
-    flex: 2,
+    flex: 4,
   },
   sendContainer: {
-    margin: 10,
+    padding: 10,
+    borderBottomWidth: StyleSheet.hairlineWidth,
   },
   sendButton: {
   },
