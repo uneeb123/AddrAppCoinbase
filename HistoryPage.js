@@ -6,32 +6,7 @@ import {
   FlatList,
   Button
 } from 'react-native';
-
-class Send extends Component<{}> {
-  render() {
-    let sentItem = this.props.item;
-
-    let address = <Text>Sent to: Address not found!</Text>;
-    if (sentItem.to_address) {
-      address = <Text>Sent to: {sentItem.to_address}</Text>;
-    }
-    let fee = <View />;
-    if (sentItem.fee_BTC) {
-      fee = <Text>Fee: {sentItem.fee_BTC} BTC</Text>
-    }
-    let create_date = sentItem.create_date.replace(/T/, ' ').replace(/Z/, '');
-
-    return (
-      <View style={styles.sendContainer}>
-        <Text>Transaction on {create_date}</Text>
-        <Text>Status is {sentItem.status}</Text>
-        <Text>Amount sent: {sentItem.amount_BTC} BTC</Text>
-        {fee}
-        {address}
-      </View>
-    );
-  }
-}
+import HistoryTabs from './HistoryTabs';
 
 export default class HistoryPage extends Component<{}> {
   static navigationOptions = {
@@ -64,11 +39,7 @@ export default class HistoryPage extends Component<{}> {
           <Text>Address: {this.user.address}</Text>
         </View>
         <View style={styles.history_container}>
-          <FlatList
-            data={this.transaction_history}
-            renderItem={({item}) => <Send item={item}/>}
-            keyExtractor={(item, index) => index.toString()}
-          />
+          <HistoryTabs sent_history={this.transaction_history} buy_history={this.buy_history} />
         </View>
         <Button style={styles.sendButton} title='Send money' onPress={this._goToSendPage} />
       </View>
@@ -85,10 +56,6 @@ const styles = StyleSheet.create({
   },
   history_container: {
     flex: 4,
-  },
-  sendContainer: {
-    padding: 10,
-    borderBottomWidth: StyleSheet.hairlineWidth,
   },
   sendButton: {
   },
