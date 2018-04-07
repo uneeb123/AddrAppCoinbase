@@ -5,8 +5,10 @@ import {
   View,
   StyleSheet,
   Button,
-  Alert
+  Alert,
+  TouchableOpacity
 } from 'react-native';
+import Modal from "react-native-modal";
 import Keyboard from 'react-native-keyboard';
 
 export default class SendPage extends Component<{}> {
@@ -14,11 +16,17 @@ export default class SendPage extends Component<{}> {
     header: null,
   }
 
+  _toggleModal() {
+    this.setState({ isModalVisible: !this.state.isModalVisible });
+  }
+
   constructor(props) {
     super(props);
     this.state = {
       amount: '',
       address: '',
+      isModalVisible: false,
+      confirmation: '',
     };
 
     const { params } = this.props.navigation.state;
@@ -66,20 +74,45 @@ export default class SendPage extends Component<{}> {
       );
       let data = await response.json();
       console.log(data);
-      Alert.alert(
-        'Alert Title',
-        'Transaction requested',
-        [
-          {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
-          {text: 'OK', onPress: () => console.log('OK Pressed')},
-        ],
-        { cancelable: false }
-      )
-      const { navigate } = this.props.navigation;
-      navigate('Loading');
-    } catch(error) {
+      this._toggleModal();
+     } catch(error) {
       console.log(error);
     }
+  }
+
+  _confirmTransaction = async () => {
+    this._toggleModal();
+    const endpoint = 'https://api.coinbase.com/v2/accounts/' + this.user.account_id + '/transactions';
+    const header = new Headers();
+    header.append('Authorization', 'Bearer ' + this.access_token);
+    header.append('CB-VERSION', '2017-07-11');
+    header.append('CB-2FA-TOKEN', this.state.confirmation);
+    const form = new FormData();
+    form.append('type', 'send');
+    form.append('to', this.state.address);
+    form.append('amount', this.state.amount);
+    form.append('currency', 'BTC');
+    let response = await fetch(
+      endpoint, {
+        method: 'POST',
+        body: form,
+        headers: header
+      }
+    );
+    let data = await response.json();
+    console.log(data);
+
+    Alert.alert(
+      'Alert Title',
+      'Transaction requested',
+      [
+        {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
+        {text: 'OK', onPress: () => console.log('OK Pressed')},
+      ],
+      { cancelable: false }
+    )
+    const { navigate } = this.props.navigation;
+    navigate('Loading');
   }
 
   render() {
@@ -111,6 +144,16 @@ export default class SendPage extends Component<{}> {
             <Button style={styles.payButton} title='Pay' onPress={() => {this._sendMoney()}} />
           </View>
         </View>
+        <Modal isVisible={this.state.isModalVisible}>
+          <View style={styles.modalContainer}>
+            <Text>Enter verification code</Text>
+            <TextInput style={styles.confirmationCode}
+              onChangeText={(text) => this.setState({confirmation: text})}
+              value={this.state.confirmation}
+            />
+            <Button style={styles.modalConfirmationButton} title='Confirm' onPress={() => {this._confirmTransaction()}} />
+          </View>
+        </Modal>
       </View>
     );
   }
@@ -181,5 +224,15 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  modalContainer: {
+    margin: 50,
+    padding: 10,
+    borderRadius: 10,
+    backgroundColor: '#FFF'
+  },
+  modalConfirmationButton: {
+  },
+  confirmationCode: {
   }
 });

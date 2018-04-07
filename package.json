@@ -14,6 +14,7 @@
     "react-native-crypto": "^2.1.2",
     "react-native-gesture-handler": "^1.0.0-alpha.42",
     "react-native-keyboard": "^2.0.1",
+    "react-native-modal": "^5.4.0",
     "react-native-randombytes": "^2.3.0",
     "react-native-tab-view": "^0.0.77",
     "react-navigation": "^1.5.10",
