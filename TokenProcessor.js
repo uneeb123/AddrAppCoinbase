@@ -33,7 +33,6 @@ export default class TokenProcessor {
     // they can be bundled together because you can differentiate
     // them by looking at the amount. they are mostly identical
     if (raw.type == 'buy' || raw.type == 'sell') {
-      console.log(raw);
       buy = {};
       buy.status = raw.status;
       buy.amount_BTC = raw.amount.amount;

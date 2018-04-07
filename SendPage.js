@@ -4,7 +4,8 @@ import {
   TextInput,
   View,
   StyleSheet,
-  Button
+  Button,
+  Alert
 } from 'react-native';
 import Keyboard from 'react-native-keyboard';
 
@@ -45,6 +46,42 @@ export default class SendPage extends Component<{}> {
     model.addKey(key);
   }
 
+  async _sendMoney() {
+    try {
+      const endpoint = 'https://api.coinbase.com/v2/accounts/' + this.user.account_id + '/transactions';
+      const header = new Headers();
+      header.append('Authorization', 'Bearer ' + this.access_token);
+      header.append('CB-VERSION', '2017-07-11');
+      const form = new FormData();
+      form.append('type', 'send');
+      form.append('to', this.state.address);
+      form.append('amount', this.state.amount);
+      form.append('currency', 'BTC');
+      let response = await fetch(
+        endpoint, {
+          method: 'POST',
+          body: form,
+          headers: header
+        }
+      );
+      let data = await response.json();
+      console.log(data);
+      Alert.alert(
+        'Alert Title',
+        'Transaction requested',
+        [
+          {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
+          {text: 'OK', onPress: () => console.log('OK Pressed')},
+        ],
+        { cancelable: false }
+      )
+      const { navigate } = this.props.navigation;
+      navigate('Loading');
+    } catch(error) {
+      console.log(error);
+    }
+  }
+
   render() {
     return (
       <View style={styles.overall}>
@@ -71,7 +108,7 @@ export default class SendPage extends Component<{}> {
               onDelete={this._handleDelete.bind(this)}
               onKeyPress={this._handleKeyPress.bind(this)}
             />
-            <Button style={styles.payButton} title='Pay' onPress={()=>{}} />
+            <Button style={styles.payButton} title='Pay' onPress={() => {this._sendMoney()}} />
           </View>
         </View>
       </View>
