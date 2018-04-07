@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml:1:1-33:12
 	package
-		ADDED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml:2:5-33
+		ADDED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml:2:5-23
 		INJECTED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -39,7 +39,7 @@ MERGED from [org.webkit:android-jsc:r174650] /Users/uneeb123/Documents/Coinbase/
 		ADDED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
 		ADDED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml:8:7-38
-activity#com.propertyfinder.MainActivity
+activity#com.addr.MainActivity
 ADDED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml:13:7-29:18
 	android:label
 		ADDED from /Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/AndroidManifest.xml:16:9-41

@@ -3351,8 +3351,8 @@
                     "startLine": 258,
                     "startColumn": 4,
                     "startOffset": 31587,
-                    "endColumn": 51,
-                    "endOffset": 31634
+                    "endColumn": 41,
+                    "endOffset": 31624
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/res/values/strings.xml",
@@ -3360,8 +3360,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 51,
-                        "endOffset": 63
+                        "endColumn": 41,
+                        "endOffset": 53
                     }
                 }
             },
@@ -3369,9 +3369,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 31639,
+                    "startOffset": 31629,
                     "endColumn": 93,
-                    "endOffset": 31728
+                    "endOffset": 31718
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3388,9 +3388,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 31733,
+                    "startOffset": 31723,
                     "endColumn": 102,
-                    "endOffset": 31831
+                    "endOffset": 31821
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3407,9 +3407,9 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 31836,
+                    "startOffset": 31826,
                     "endColumn": 112,
-                    "endOffset": 31944
+                    "endOffset": 31934
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3426,9 +3426,9 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 31949,
+                    "startOffset": 31939,
                     "endColumn": 161,
-                    "endOffset": 32106
+                    "endOffset": 32096
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3445,9 +3445,9 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 32111,
+                    "startOffset": 32101,
                     "endColumn": 113,
-                    "endOffset": 32220
+                    "endOffset": 32210
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3464,9 +3464,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 32225,
+                    "startOffset": 32215,
                     "endColumn": 106,
-                    "endOffset": 32327
+                    "endOffset": 32317
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3483,9 +3483,9 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 32332,
+                    "startOffset": 32322,
                     "endColumn": 111,
-                    "endOffset": 32439
+                    "endOffset": 32429
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3502,9 +3502,9 @@
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 32444,
+                    "startOffset": 32434,
                     "endColumn": 102,
-                    "endOffset": 32542
+                    "endOffset": 32532
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3521,9 +3521,9 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 32547,
+                    "startOffset": 32537,
                     "endColumn": 120,
-                    "endOffset": 32663
+                    "endOffset": 32653
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3540,9 +3540,9 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 32668,
+                    "startOffset": 32658,
                     "endColumn": 125,
-                    "endOffset": 32789
+                    "endOffset": 32779
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3559,9 +3559,9 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 32794,
+                    "startOffset": 32784,
                     "endColumn": 190,
-                    "endOffset": 32980
+                    "endOffset": 32970
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3578,9 +3578,9 @@
                 "to": {
                     "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 32985,
+                    "startOffset": 32975,
                     "endColumn": 107,
-                    "endOffset": 33088
+                    "endOffset": 33078
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3597,9 +3597,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 33093,
+                    "startOffset": 33083,
                     "endColumn": 112,
-                    "endOffset": 33201
+                    "endOffset": 33191
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3616,9 +3616,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 33206,
+                    "startOffset": 33196,
                     "endColumn": 112,
-                    "endOffset": 33314
+                    "endOffset": 33304
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3635,9 +3635,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 33319,
+                    "startOffset": 33309,
                     "endColumn": 107,
-                    "endOffset": 33422
+                    "endOffset": 33412
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3654,9 +3654,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 33427,
+                    "startOffset": 33417,
                     "endColumn": 111,
-                    "endOffset": 33534
+                    "endOffset": 33524
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3673,9 +3673,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 33539,
+                    "startOffset": 33529,
                     "endColumn": 128,
-                    "endOffset": 33663
+                    "endOffset": 33653
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3692,9 +3692,9 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 33668,
+                    "startOffset": 33658,
                     "endColumn": 110,
-                    "endOffset": 33774
+                    "endOffset": 33764
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3711,9 +3711,9 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 33779,
+                    "startOffset": 33769,
                     "endColumn": 92,
-                    "endOffset": 33867
+                    "endOffset": 33857
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3730,9 +3730,9 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 33872,
+                    "startOffset": 33862,
                     "endColumn": 131,
-                    "endOffset": 33999
+                    "endOffset": 33989
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3749,9 +3749,9 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 34004,
+                    "startOffset": 33994,
                     "endColumn": 124,
-                    "endOffset": 34124
+                    "endOffset": 34114
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3768,9 +3768,9 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 34129,
+                    "startOffset": 34119,
                     "endColumn": 97,
-                    "endOffset": 34222
+                    "endOffset": 34212
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3787,9 +3787,9 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 34227,
+                    "startOffset": 34217,
                     "endColumn": 98,
-                    "endOffset": 34321
+                    "endOffset": 34311
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3806,9 +3806,9 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 34326,
+                    "startOffset": 34316,
                     "endColumn": 113,
-                    "endOffset": 34435
+                    "endOffset": 34425
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3825,9 +3825,9 @@
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 34440,
+                    "startOffset": 34430,
                     "endColumn": 70,
-                    "endOffset": 34506
+                    "endOffset": 34496
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -3844,9 +3844,9 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 34511,
+                    "startOffset": 34501,
                     "endColumn": 77,
-                    "endOffset": 34584
+                    "endOffset": 34574
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -3863,9 +3863,9 @@
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 34589,
+                    "startOffset": 34579,
                     "endColumn": 89,
-                    "endOffset": 34674
+                    "endOffset": 34664
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -3882,9 +3882,9 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 34679,
+                    "startOffset": 34669,
                     "endColumn": 87,
-                    "endOffset": 34762
+                    "endOffset": 34752
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -3901,9 +3901,9 @@
                 "to": {
                     "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 34767,
+                    "startOffset": 34757,
                     "endColumn": 95,
-                    "endOffset": 34858
+                    "endOffset": 34848
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -3920,10 +3920,10 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 34863,
+                    "startOffset": 34853,
                     "endLine": 291,
                     "endColumn": 10,
-                    "endOffset": 35106
+                    "endOffset": 35096
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -3941,10 +3941,10 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 35111,
+                    "startOffset": 35101,
                     "endLine": 294,
                     "endColumn": 12,
-                    "endOffset": 35234
+                    "endOffset": 35224
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/src/main/res/values/styles.xml",
@@ -3962,10 +3962,10 @@
                 "to": {
                     "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 35239,
+                    "startOffset": 35229,
                     "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 35735
+                    "endOffset": 35725
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -3983,9 +3983,9 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 35740,
+                    "startOffset": 35730,
                     "endColumn": 88,
-                    "endOffset": 35824
+                    "endOffset": 35814
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4002,10 +4002,10 @@
                 "to": {
                     "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 35829,
+                    "startOffset": 35819,
                     "endLine": 306,
                     "endColumn": 12,
-                    "endOffset": 36071
+                    "endOffset": 36061
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4023,10 +4023,10 @@
                 "to": {
                     "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 36076,
+                    "startOffset": 36066,
                     "endLine": 310,
                     "endColumn": 12,
-                    "endOffset": 36352
+                    "endOffset": 36342
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4044,10 +4044,10 @@
                 "to": {
                     "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 36357,
+                    "startOffset": 36347,
                     "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 36637
+                    "endOffset": 36627
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4065,10 +4065,10 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 36642,
+                    "startOffset": 36632,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 37030
+                    "endOffset": 37020
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4086,10 +4086,10 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 37035,
+                    "startOffset": 37025,
                     "endLine": 328,
                     "endColumn": 12,
-                    "endOffset": 37507
+                    "endOffset": 37497
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4107,10 +4107,10 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 37512,
+                    "startOffset": 37502,
                     "endLine": 332,
                     "endColumn": 12,
-                    "endOffset": 37729
+                    "endOffset": 37719
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4128,10 +4128,10 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 37734,
+                    "startOffset": 37724,
                     "endLine": 336,
                     "endColumn": 12,
-                    "endOffset": 37951
+                    "endOffset": 37941
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4149,10 +4149,10 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 37956,
+                    "startOffset": 37946,
                     "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 38219
+                    "endOffset": 38209
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4170,10 +4170,10 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 38224,
+                    "startOffset": 38214,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 38446
+                    "endOffset": 38436
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4191,10 +4191,10 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 38451,
+                    "startOffset": 38441,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 38676
+                    "endOffset": 38666
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4212,10 +4212,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 38681,
+                    "startOffset": 38671,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 38906
+                    "endOffset": 38896
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4233,10 +4233,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 38911,
+                    "startOffset": 38901,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 39136
+                    "endOffset": 39126
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4254,10 +4254,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 39141,
+                    "startOffset": 39131,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 39366
+                    "endOffset": 39356
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4275,10 +4275,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 39371,
+                    "startOffset": 39361,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 39593
+                    "endOffset": 39583
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4296,10 +4296,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 39598,
+                    "startOffset": 39588,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 39832
+                    "endOffset": 39822
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4317,10 +4317,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 39837,
+                    "startOffset": 39827,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 40058
+                    "endOffset": 40048
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4338,10 +4338,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 40063,
+                    "startOffset": 40053,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 40303
+                    "endOffset": 40293
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4359,10 +4359,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 40308,
+                    "startOffset": 40298,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 40433
+                    "endOffset": 40423
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4380,10 +4380,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 40438,
+                    "startOffset": 40428,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 40563
+                    "endOffset": 40553
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4401,10 +4401,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 40568,
+                    "startOffset": 40558,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 40793
+                    "endOffset": 40783
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4422,10 +4422,10 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 40798,
+                    "startOffset": 40788,
                     "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 41041
+                    "endOffset": 41031
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4443,10 +4443,10 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 41046,
+                    "startOffset": 41036,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 41260
+                    "endOffset": 41250
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4464,10 +4464,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 41265,
+                    "startOffset": 41255,
                     "endLine": 398,
                     "endColumn": 12,
-                    "endOffset": 41543
+                    "endOffset": 41533
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4485,10 +4485,10 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 41548,
+                    "startOffset": 41538,
                     "endLine": 402,
                     "endColumn": 12,
-                    "endOffset": 41751
+                    "endOffset": 41741
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4506,10 +4506,10 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 41756,
+                    "startOffset": 41746,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 41882
+                    "endOffset": 41872
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4527,10 +4527,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 41887,
+                    "startOffset": 41877,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 42109
+                    "endOffset": 42099
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4548,10 +4548,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 42114,
+                    "startOffset": 42104,
                     "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 42355
+                    "endOffset": 42345
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4569,10 +4569,10 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 42360,
+                    "startOffset": 42350,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 42580
+                    "endOffset": 42570
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4590,10 +4590,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 42585,
+                    "startOffset": 42575,
                     "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 42827
+                    "endOffset": 42817
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4611,10 +4611,10 @@
                 "to": {
                     "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 42832,
+                    "startOffset": 42822,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 43048
+                    "endOffset": 43038
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4632,10 +4632,10 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 43053,
+                    "startOffset": 43043,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 43293
+                    "endOffset": 43283
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4653,10 +4653,10 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 43298,
+                    "startOffset": 43288,
                     "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 43567
+                    "endOffset": 43557
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4674,10 +4674,10 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 43572,
+                    "startOffset": 43562,
                     "endLine": 437,
                     "endColumn": 12,
-                    "endOffset": 43868
+                    "endOffset": 43858
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4695,10 +4695,10 @@
                 "to": {
                     "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 43873,
+                    "startOffset": 43863,
                     "endLine": 441,
                     "endColumn": 12,
-                    "endOffset": 44192
+                    "endOffset": 44182
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4716,10 +4716,10 @@
                 "to": {
                     "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 44197,
+                    "startOffset": 44187,
                     "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 44483
+                    "endOffset": 44473
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4737,10 +4737,10 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 44488,
+                    "startOffset": 44478,
                     "endLine": 449,
                     "endColumn": 12,
-                    "endOffset": 44797
+                    "endOffset": 44787
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4758,9 +4758,9 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 44802,
+                    "startOffset": 44792,
                     "endColumn": 136,
-                    "endOffset": 44934
+                    "endOffset": 44924
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4777,9 +4777,9 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 44939,
+                    "startOffset": 44929,
                     "endColumn": 130,
-                    "endOffset": 45065
+                    "endOffset": 45055
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4796,9 +4796,9 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 45070,
+                    "startOffset": 45060,
                     "endColumn": 104,
-                    "endOffset": 45170
+                    "endOffset": 45160
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4815,10 +4815,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 45175,
+                    "startOffset": 45165,
                     "endLine": 455,
                     "endColumn": 12,
-                    "endOffset": 45374
+                    "endOffset": 45364
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4836,10 +4836,10 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 45379,
+                    "startOffset": 45369,
                     "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 45582
+                    "endOffset": 45572
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4857,10 +4857,10 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 45587,
+                    "startOffset": 45577,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 45706
+                    "endOffset": 45696
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4878,10 +4878,10 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 45711,
+                    "startOffset": 45701,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 45830
+                    "endOffset": 45820
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4899,9 +4899,9 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 45835,
+                    "startOffset": 45825,
                     "endColumn": 104,
-                    "endOffset": 45935
+                    "endOffset": 45925
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4918,9 +4918,9 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 45940,
+                    "startOffset": 45930,
                     "endColumn": 116,
-                    "endOffset": 46052
+                    "endOffset": 46042
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4937,10 +4937,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 46057,
+                    "startOffset": 46047,
                     "endLine": 467,
                     "endColumn": 12,
-                    "endOffset": 46266
+                    "endOffset": 46256
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4958,10 +4958,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 46271,
+                    "startOffset": 46261,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 46412
+                    "endOffset": 46402
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -4979,10 +4979,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 46417,
+                    "startOffset": 46407,
                     "endLine": 471,
                     "endColumn": 12,
-                    "endOffset": 46552
+                    "endOffset": 46542
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5000,10 +5000,10 @@
                 "to": {
                     "startLine": 472,
                     "startColumn": 4,
-                    "startOffset": 46557,
+                    "startOffset": 46547,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 46638
+                    "endOffset": 46628
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5021,10 +5021,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 46643,
+                    "startOffset": 46633,
                     "endLine": 478,
                     "endColumn": 12,
-                    "endOffset": 46986
+                    "endOffset": 46976
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5042,9 +5042,9 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 46991,
+                    "startOffset": 46981,
                     "endColumn": 87,
-                    "endOffset": 47074
+                    "endOffset": 47064
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5061,10 +5061,10 @@
                 "to": {
                     "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 47079,
+                    "startOffset": 47069,
                     "endLine": 483,
                     "endColumn": 12,
-                    "endOffset": 47304
+                    "endOffset": 47294
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5082,10 +5082,10 @@
                 "to": {
                     "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 47309,
+                    "startOffset": 47299,
                     "endLine": 489,
                     "endColumn": 12,
-                    "endOffset": 47706
+                    "endOffset": 47696
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5103,10 +5103,10 @@
                 "to": {
                     "startLine": 490,
                     "startColumn": 4,
-                    "startOffset": 47711,
+                    "startOffset": 47701,
                     "endLine": 493,
                     "endColumn": 12,
-                    "endOffset": 47939
+                    "endOffset": 47929
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5124,9 +5124,9 @@
                 "to": {
                     "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 47944,
+                    "startOffset": 47934,
                     "endColumn": 81,
-                    "endOffset": 48021
+                    "endOffset": 48011
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5143,10 +5143,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 48026,
+                    "startOffset": 48016,
                     "endLine": 496,
                     "endColumn": 12,
-                    "endOffset": 48119
+                    "endOffset": 48109
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5164,10 +5164,10 @@
                 "to": {
                     "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 48124,
+                    "startOffset": 48114,
                     "endLine": 507,
                     "endColumn": 12,
-                    "endOffset": 48736
+                    "endOffset": 48726
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5185,9 +5185,9 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 48741,
+                    "startOffset": 48731,
                     "endColumn": 99,
-                    "endOffset": 48836
+                    "endOffset": 48826
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5204,10 +5204,10 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 48841,
+                    "startOffset": 48831,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 49072
+                    "endOffset": 49062
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5225,10 +5225,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 49077,
+                    "startOffset": 49067,
                     "endLine": 518,
                     "endColumn": 12,
-                    "endOffset": 49480
+                    "endOffset": 49470
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5246,10 +5246,10 @@
                 "to": {
                     "startLine": 519,
                     "startColumn": 4,
-                    "startOffset": 49485,
+                    "startOffset": 49475,
                     "endLine": 522,
                     "endColumn": 12,
-                    "endOffset": 49719
+                    "endOffset": 49709
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5267,9 +5267,9 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 49724,
+                    "startOffset": 49714,
                     "endColumn": 93,
-                    "endOffset": 49813
+                    "endOffset": 49803
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5286,9 +5286,9 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 49818,
+                    "startOffset": 49808,
                     "endColumn": 88,
-                    "endOffset": 49902
+                    "endOffset": 49892
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5305,10 +5305,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 49907,
+                    "startOffset": 49897,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 50139
+                    "endOffset": 50129
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5326,10 +5326,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 50144,
+                    "startOffset": 50134,
                     "endLine": 554,
                     "endColumn": 12,
-                    "endOffset": 52090
+                    "endOffset": 52080
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5347,10 +5347,10 @@
                 "to": {
                     "startLine": 555,
                     "startColumn": 4,
-                    "startOffset": 52095,
+                    "startOffset": 52085,
                     "endLine": 558,
                     "endColumn": 12,
-                    "endOffset": 52332
+                    "endOffset": 52322
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5368,10 +5368,10 @@
                 "to": {
                     "startLine": 559,
                     "startColumn": 4,
-                    "startOffset": 52337,
+                    "startOffset": 52327,
                     "endLine": 585,
                     "endColumn": 12,
-                    "endOffset": 54414
+                    "endOffset": 54404
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5389,10 +5389,10 @@
                 "to": {
                     "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 54419,
+                    "startOffset": 54409,
                     "endLine": 733,
                     "endColumn": 12,
-                    "endOffset": 63841
+                    "endOffset": 63831
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5410,10 +5410,10 @@
                 "to": {
                     "startLine": 734,
                     "startColumn": 4,
-                    "startOffset": 63846,
+                    "startOffset": 63836,
                     "endLine": 755,
                     "endColumn": 12,
-                    "endOffset": 65108
+                    "endOffset": 65098
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5431,10 +5431,10 @@
                 "to": {
                     "startLine": 756,
                     "startColumn": 4,
-                    "startOffset": 65113,
+                    "startOffset": 65103,
                     "endLine": 903,
                     "endColumn": 12,
-                    "endOffset": 74645
+                    "endOffset": 74635
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5452,10 +5452,10 @@
                 "to": {
                     "startLine": 904,
                     "startColumn": 4,
-                    "startOffset": 74650,
+                    "startOffset": 74640,
                     "endLine": 925,
                     "endColumn": 12,
-                    "endOffset": 75926
+                    "endOffset": 75916
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5473,10 +5473,10 @@
                 "to": {
                     "startLine": 926,
                     "startColumn": 4,
-                    "startOffset": 75931,
+                    "startOffset": 75921,
                     "endLine": 932,
                     "endColumn": 12,
-                    "endOffset": 76462
+                    "endOffset": 76452
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5494,10 +5494,10 @@
                 "to": {
                     "startLine": 933,
                     "startColumn": 4,
-                    "startOffset": 76467,
+                    "startOffset": 76457,
                     "endLine": 937,
                     "endColumn": 12,
-                    "endOffset": 76792
+                    "endOffset": 76782
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5515,10 +5515,10 @@
                 "to": {
                     "startLine": 938,
                     "startColumn": 4,
-                    "startOffset": 76797,
+                    "startOffset": 76787,
                     "endLine": 958,
                     "endColumn": 12,
-                    "endOffset": 77915
+                    "endOffset": 77905
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5536,10 +5536,10 @@
                 "to": {
                     "startLine": 959,
                     "startColumn": 4,
-                    "startOffset": 77920,
+                    "startOffset": 77910,
                     "endLine": 963,
                     "endColumn": 12,
-                    "endOffset": 78171
+                    "endOffset": 78161
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5557,10 +5557,10 @@
                 "to": {
                     "startLine": 964,
                     "startColumn": 4,
-                    "startOffset": 78176,
+                    "startOffset": 78166,
                     "endLine": 968,
                     "endColumn": 12,
-                    "endOffset": 78407
+                    "endOffset": 78397
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5578,10 +5578,10 @@
                 "to": {
                     "startLine": 969,
                     "startColumn": 4,
-                    "startOffset": 78412,
+                    "startOffset": 78402,
                     "endLine": 978,
                     "endColumn": 12,
-                    "endOffset": 78954
+                    "endOffset": 78944
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5599,10 +5599,10 @@
                 "to": {
                     "startLine": 979,
                     "startColumn": 4,
-                    "startOffset": 78959,
+                    "startOffset": 78949,
                     "endLine": 987,
                     "endColumn": 12,
-                    "endOffset": 79448
+                    "endOffset": 79438
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5620,10 +5620,10 @@
                 "to": {
                     "startLine": 988,
                     "startColumn": 4,
-                    "startOffset": 79453,
+                    "startOffset": 79443,
                     "endLine": 998,
                     "endColumn": 12,
-                    "endOffset": 80121
+                    "endOffset": 80111
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5641,10 +5641,10 @@
                 "to": {
                     "startLine": 999,
                     "startColumn": 4,
-                    "startOffset": 80126,
+                    "startOffset": 80116,
                     "endLine": 1001,
                     "endColumn": 12,
-                    "endOffset": 80269
+                    "endOffset": 80259
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5662,10 +5662,10 @@
                 "to": {
                     "startLine": 1002,
                     "startColumn": 4,
-                    "startOffset": 80274,
+                    "startOffset": 80264,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 80797
+                    "endOffset": 80787
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5683,10 +5683,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 80802,
+                    "startOffset": 80792,
                     "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 81361
+                    "endOffset": 81351
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5704,10 +5704,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 81366,
+                    "startOffset": 81356,
                     "endLine": 1023,
                     "endColumn": 12,
-                    "endOffset": 81736
+                    "endOffset": 81726
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5725,9 +5725,9 @@
                 "to": {
                     "startLine": 1024,
                     "startColumn": 4,
-                    "startOffset": 81741,
+                    "startOffset": 81731,
                     "endColumn": 117,
-                    "endOffset": 81854
+                    "endOffset": 81844
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5744,10 +5744,10 @@
                 "to": {
                     "startLine": 1025,
                     "startColumn": 4,
-                    "startOffset": 81859,
+                    "startOffset": 81849,
                     "endLine": 1033,
                     "endColumn": 12,
-                    "endOffset": 82392
+                    "endOffset": 82382
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5765,10 +5765,10 @@
                 "to": {
                     "startLine": 1034,
                     "startColumn": 4,
-                    "startOffset": 82397,
+                    "startOffset": 82387,
                     "endLine": 1036,
                     "endColumn": 12,
-                    "endOffset": 82549
+                    "endOffset": 82539
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5786,10 +5786,10 @@
                 "to": {
                     "startLine": 1037,
                     "startColumn": 4,
-                    "startOffset": 82554,
+                    "startOffset": 82544,
                     "endLine": 1039,
                     "endColumn": 12,
-                    "endOffset": 82693
+                    "endOffset": 82683
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5807,10 +5807,10 @@
                 "to": {
                     "startLine": 1040,
                     "startColumn": 4,
-                    "startOffset": 82698,
+                    "startOffset": 82688,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 83013
+                    "endOffset": 83003
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5828,10 +5828,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 83018,
+                    "startOffset": 83008,
                     "endLine": 1048,
                     "endColumn": 12,
-                    "endOffset": 83269
+                    "endOffset": 83259
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5849,10 +5849,10 @@
                 "to": {
                     "startLine": 1049,
                     "startColumn": 4,
-                    "startOffset": 83274,
+                    "startOffset": 83264,
                     "endLine": 1052,
                     "endColumn": 12,
-                    "endOffset": 83439
+                    "endOffset": 83429
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5870,10 +5870,10 @@
                 "to": {
                     "startLine": 1053,
                     "startColumn": 4,
-                    "startOffset": 83444,
+                    "startOffset": 83434,
                     "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 83580
+                    "endOffset": 83570
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5891,9 +5891,9 @@
                 "to": {
                     "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 83585,
+                    "startOffset": 83575,
                     "endColumn": 63,
-                    "endOffset": 83644
+                    "endOffset": 83634
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5910,10 +5910,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 83649,
+                    "startOffset": 83639,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 83926
+                    "endOffset": 83916
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5931,10 +5931,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 83931,
+                    "startOffset": 83921,
                     "endLine": 1064,
                     "endColumn": 12,
-                    "endOffset": 84212
+                    "endOffset": 84202
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5952,10 +5952,10 @@
                 "to": {
                     "startLine": 1065,
                     "startColumn": 4,
-                    "startOffset": 84217,
+                    "startOffset": 84207,
                     "endLine": 1072,
                     "endColumn": 12,
-                    "endOffset": 84754
+                    "endOffset": 84744
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5973,10 +5973,10 @@
                 "to": {
                     "startLine": 1073,
                     "startColumn": 4,
-                    "startOffset": 84759,
+                    "startOffset": 84749,
                     "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 85018
+                    "endOffset": 85008
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -5994,10 +5994,10 @@
                 "to": {
                     "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 85023,
+                    "startOffset": 85013,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 85356
+                    "endOffset": 85346
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6015,10 +6015,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 85361,
+                    "startOffset": 85351,
                     "endLine": 1090,
                     "endColumn": 12,
-                    "endOffset": 85709
+                    "endOffset": 85699
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6036,9 +6036,9 @@
                 "to": {
                     "startLine": 1091,
                     "startColumn": 4,
-                    "startOffset": 85714,
+                    "startOffset": 85704,
                     "endColumn": 93,
-                    "endOffset": 85803
+                    "endOffset": 85793
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6055,10 +6055,10 @@
                 "to": {
                     "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 85808,
+                    "startOffset": 85798,
                     "endLine": 1095,
                     "endColumn": 12,
-                    "endOffset": 86109
+                    "endOffset": 86099
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6076,10 +6076,10 @@
                 "to": {
                     "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 86114,
+                    "startOffset": 86104,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 86371
+                    "endOffset": 86361
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6097,10 +6097,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 86376,
+                    "startOffset": 86366,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 86496
+                    "endOffset": 86486
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6118,10 +6118,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 86501,
+                    "startOffset": 86491,
                     "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 86623
+                    "endOffset": 86613
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6139,10 +6139,10 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 86628,
+                    "startOffset": 86618,
                     "endLine": 1107,
                     "endColumn": 12,
-                    "endOffset": 86862
+                    "endOffset": 86852
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6160,10 +6160,10 @@
                 "to": {
                     "startLine": 1108,
                     "startColumn": 4,
-                    "startOffset": 86867,
+                    "startOffset": 86857,
                     "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 87073
+                    "endOffset": 87063
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6181,10 +6181,10 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 87078,
+                    "startOffset": 87068,
                     "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 87192
+                    "endOffset": 87182
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6202,10 +6202,10 @@
                 "to": {
                     "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 87197,
+                    "startOffset": 87187,
                     "endLine": 1116,
                     "endColumn": 12,
-                    "endOffset": 87385
+                    "endOffset": 87375
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6223,10 +6223,10 @@
                 "to": {
                     "startLine": 1117,
                     "startColumn": 4,
-                    "startOffset": 87390,
+                    "startOffset": 87380,
                     "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 87840
+                    "endOffset": 87830
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6244,10 +6244,10 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 87845,
+                    "startOffset": 87835,
                     "endLine": 1126,
                     "endColumn": 12,
-                    "endOffset": 88021
+                    "endOffset": 88011
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6265,10 +6265,10 @@
                 "to": {
                     "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 88026,
+                    "startOffset": 88016,
                     "endLine": 1129,
                     "endColumn": 12,
-                    "endOffset": 88143
+                    "endOffset": 88133
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6286,10 +6286,10 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 88148,
+                    "startOffset": 88138,
                     "endLine": 1133,
                     "endColumn": 12,
-                    "endOffset": 88402
+                    "endOffset": 88392
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6307,10 +6307,10 @@
                 "to": {
                     "startLine": 1134,
                     "startColumn": 4,
-                    "startOffset": 88407,
+                    "startOffset": 88397,
                     "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 88515
+                    "endOffset": 88505
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6328,10 +6328,10 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 88520,
+                    "startOffset": 88510,
                     "endLine": 1139,
                     "endColumn": 12,
-                    "endOffset": 88702
+                    "endOffset": 88692
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6349,10 +6349,10 @@
                 "to": {
                     "startLine": 1140,
                     "startColumn": 4,
-                    "startOffset": 88707,
+                    "startOffset": 88697,
                     "endLine": 1141,
                     "endColumn": 12,
-                    "endOffset": 88804
+                    "endOffset": 88794
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6370,10 +6370,10 @@
                 "to": {
                     "startLine": 1142,
                     "startColumn": 4,
-                    "startOffset": 88809,
+                    "startOffset": 88799,
                     "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 89248
+                    "endOffset": 89238
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6391,10 +6391,10 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 89253,
+                    "startOffset": 89243,
                     "endLine": 1149,
                     "endColumn": 12,
-                    "endOffset": 89372
+                    "endOffset": 89362
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6412,10 +6412,10 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 89377,
+                    "startOffset": 89367,
                     "endLine": 1153,
                     "endColumn": 12,
-                    "endOffset": 89657
+                    "endOffset": 89647
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6433,10 +6433,10 @@
                 "to": {
                     "startLine": 1154,
                     "startColumn": 4,
-                    "startOffset": 89662,
+                    "startOffset": 89652,
                     "endLine": 1165,
                     "endColumn": 12,
-                    "endOffset": 90544
+                    "endOffset": 90534
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6454,10 +6454,10 @@
                 "to": {
                     "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 90549,
+                    "startOffset": 90539,
                     "endLine": 1171,
                     "endColumn": 12,
-                    "endOffset": 90838
+                    "endOffset": 90828
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6475,10 +6475,10 @@
                 "to": {
                     "startLine": 1172,
                     "startColumn": 4,
-                    "startOffset": 90843,
+                    "startOffset": 90833,
                     "endLine": 1182,
                     "endColumn": 12,
-                    "endOffset": 91570
+                    "endOffset": 91560
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6496,10 +6496,10 @@
                 "to": {
                     "startLine": 1183,
                     "startColumn": 4,
-                    "startOffset": 91575,
+                    "startOffset": 91565,
                     "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 91742
+                    "endOffset": 91732
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6517,10 +6517,10 @@
                 "to": {
                     "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 91747,
+                    "startOffset": 91737,
                     "endLine": 1190,
                     "endColumn": 12,
-                    "endOffset": 92078
+                    "endOffset": 92068
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6538,10 +6538,10 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 92083,
+                    "startOffset": 92073,
                     "endLine": 1202,
                     "endColumn": 12,
-                    "endOffset": 92945
+                    "endOffset": 92935
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6559,10 +6559,10 @@
                 "to": {
                     "startLine": 1203,
                     "startColumn": 4,
-                    "startOffset": 92950,
+                    "startOffset": 92940,
                     "endLine": 1207,
                     "endColumn": 12,
-                    "endOffset": 93223
+                    "endOffset": 93213
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6580,10 +6580,10 @@
                 "to": {
                     "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 93228,
+                    "startOffset": 93218,
                     "endLine": 1210,
                     "endColumn": 12,
-                    "endOffset": 93426
+                    "endOffset": 93416
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -6601,10 +6601,10 @@
                 "to": {
                     "startLine": 1211,
                     "startColumn": 4,
-                    "startOffset": 93431,
+                    "startOffset": 93421,
                     "endLine": 1213,
                     "endColumn": 12,
-                    "endOffset": 93617
+                    "endOffset": 93607
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -6622,10 +6622,10 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 93622,
+                    "startOffset": 93612,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 93812
+                    "endOffset": 93802
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -6643,10 +6643,10 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 93817,
+                    "startOffset": 93807,
                     "endLine": 1219,
                     "endColumn": 12,
-                    "endOffset": 93995
+                    "endOffset": 93985
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -6664,10 +6664,10 @@
                 "to": {
                     "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 94000,
+                    "startOffset": 93990,
                     "endLine": 1223,
                     "endColumn": 10,
-                    "endOffset": 94197
+                    "endOffset": 94187
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -6685,10 +6685,10 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 94202,
+                    "startOffset": 94192,
                     "endLine": 1227,
                     "endColumn": 10,
-                    "endOffset": 94403
+                    "endOffset": 94393
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -6706,10 +6706,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 94408,
+                    "startOffset": 94398,
                     "endLine": 1265,
                     "endColumn": 12,
-                    "endOffset": 97265
+                    "endOffset": 97255
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6727,10 +6727,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 97270,
+                    "startOffset": 97260,
                     "endLine": 1304,
                     "endColumn": 12,
-                    "endOffset": 100267
+                    "endOffset": 100257
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6748,9 +6748,9 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 100272,
+                    "startOffset": 100262,
                     "endColumn": 61,
-                    "endOffset": 100329
+                    "endOffset": 100319
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6767,10 +6767,10 @@
                 "to": {
                     "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 100334,
+                    "startOffset": 100324,
                     "endLine": 1315,
                     "endColumn": 12,
-                    "endOffset": 100959
+                    "endOffset": 100949
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6788,10 +6788,10 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 100964,
+                    "startOffset": 100954,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 101573
+                    "endOffset": 101563
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6809,9 +6809,9 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 101578,
+                    "startOffset": 101568,
                     "endColumn": 85,
-                    "endOffset": 101659
+                    "endOffset": 101649
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6828,10 +6828,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 101664,
+                    "startOffset": 101654,
                     "endLine": 1327,
                     "endColumn": 12,
-                    "endOffset": 101772
+                    "endOffset": 101762
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6849,10 +6849,10 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 101777,
+                    "startOffset": 101767,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 102001
+                    "endOffset": 101991
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6870,10 +6870,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 102006,
+                    "startOffset": 101996,
                     "endLine": 1335,
                     "endColumn": 12,
-                    "endOffset": 102339
+                    "endOffset": 102329
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6891,10 +6891,10 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 102344,
+                    "startOffset": 102334,
                     "endLine": 1338,
                     "endColumn": 12,
-                    "endOffset": 102499
+                    "endOffset": 102489
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6912,10 +6912,10 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 102504,
+                    "startOffset": 102494,
                     "endLine": 1341,
                     "endColumn": 12,
-                    "endOffset": 102651
+                    "endOffset": 102641
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6933,10 +6933,10 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 102656,
+                    "startOffset": 102646,
                     "endLine": 1344,
                     "endColumn": 12,
-                    "endOffset": 102822
+                    "endOffset": 102812
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6954,10 +6954,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 102827,
+                    "startOffset": 102817,
                     "endLine": 1347,
                     "endColumn": 12,
-                    "endOffset": 102989
+                    "endOffset": 102979
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6975,10 +6975,10 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 102994,
+                    "startOffset": 102984,
                     "endLine": 1351,
                     "endColumn": 12,
-                    "endOffset": 103232
+                    "endOffset": 103222
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6996,10 +6996,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 103237,
+                    "startOffset": 103227,
                     "endLine": 1354,
                     "endColumn": 12,
-                    "endOffset": 103402
+                    "endOffset": 103392
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7017,10 +7017,10 @@
                 "to": {
                     "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 103407,
+                    "startOffset": 103397,
                     "endLine": 1357,
                     "endColumn": 12,
-                    "endOffset": 103575
+                    "endOffset": 103565
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7038,10 +7038,10 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103580,
+                    "startOffset": 103570,
                     "endLine": 1360,
                     "endColumn": 12,
-                    "endOffset": 103746
+                    "endOffset": 103736
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7059,10 +7059,10 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 103751,
+                    "startOffset": 103741,
                     "endLine": 1364,
                     "endColumn": 12,
-                    "endOffset": 104020
+                    "endOffset": 104010
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7080,10 +7080,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 104025,
+                    "startOffset": 104015,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 104219
+                    "endOffset": 104209
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7101,10 +7101,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104224,
+                    "startOffset": 104214,
                     "endLine": 1370,
                     "endColumn": 12,
-                    "endOffset": 104420
+                    "endOffset": 104410
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -7122,10 +7122,10 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104425,
+                    "startOffset": 104415,
                     "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 104609
+                    "endOffset": 104599
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -7143,10 +7143,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 104614,
+                    "startOffset": 104604,
                     "endLine": 1376,
                     "endColumn": 12,
-                    "endOffset": 104808
+                    "endOffset": 104798
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -7164,10 +7164,10 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 104813,
+                    "startOffset": 104803,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 104995
+                    "endOffset": 104985
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -7185,9 +7185,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 105000,
+                    "startOffset": 104990,
                     "endColumn": 83,
-                    "endOffset": 105079
+                    "endOffset": 105069
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7204,9 +7204,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105084,
+                    "startOffset": 105074,
                     "endColumn": 95,
-                    "endOffset": 105175
+                    "endOffset": 105165
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7223,9 +7223,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105180,
+                    "startOffset": 105170,
                     "endColumn": 95,
-                    "endOffset": 105271
+                    "endOffset": 105261
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7242,9 +7242,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105276,
+                    "startOffset": 105266,
                     "endColumn": 97,
-                    "endOffset": 105369
+                    "endOffset": 105359
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7261,9 +7261,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105374,
+                    "startOffset": 105364,
                     "endColumn": 99,
-                    "endOffset": 105469
+                    "endOffset": 105459
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7280,9 +7280,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 105474,
+                    "startOffset": 105464,
                     "endColumn": 101,
-                    "endOffset": 105571
+                    "endOffset": 105561
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7299,9 +7299,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 105576,
+                    "startOffset": 105566,
                     "endColumn": 101,
-                    "endOffset": 105673
+                    "endOffset": 105663
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7318,9 +7318,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 105678,
+                    "startOffset": 105668,
                     "endColumn": 101,
-                    "endOffset": 105775
+                    "endOffset": 105765
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7337,9 +7337,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 105780,
+                    "startOffset": 105770,
                     "endColumn": 101,
-                    "endOffset": 105877
+                    "endOffset": 105867
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7356,9 +7356,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 105882,
+                    "startOffset": 105872,
                     "endColumn": 101,
-                    "endOffset": 105979
+                    "endOffset": 105969
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7375,9 +7375,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 105984,
+                    "startOffset": 105974,
                     "endColumn": 99,
-                    "endOffset": 106079
+                    "endOffset": 106069
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7394,9 +7394,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 106084,
+                    "startOffset": 106074,
                     "endColumn": 95,
-                    "endOffset": 106175
+                    "endOffset": 106165
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7413,9 +7413,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106180,
+                    "startOffset": 106170,
                     "endColumn": 111,
-                    "endOffset": 106287
+                    "endOffset": 106277
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7432,9 +7432,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 106292,
+                    "startOffset": 106282,
                     "endColumn": 128,
-                    "endOffset": 106416
+                    "endOffset": 106406
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7451,9 +7451,9 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 106421,
+                    "startOffset": 106411,
                     "endColumn": 122,
-                    "endOffset": 106539
+                    "endOffset": 106529
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7470,10 +7470,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 106544,
+                    "startOffset": 106534,
                     "endLine": 1396,
                     "endColumn": 12,
-                    "endOffset": 106693
+                    "endOffset": 106683
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7491,10 +7491,10 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 106698,
+                    "startOffset": 106688,
                     "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 106847
+                    "endOffset": 106837
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7512,9 +7512,9 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 106852,
+                    "startOffset": 106842,
                     "endColumn": 97,
-                    "endOffset": 106945
+                    "endOffset": 106935
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7531,9 +7531,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 106950,
+                    "startOffset": 106940,
                     "endColumn": 113,
-                    "endOffset": 107059
+                    "endOffset": 107049
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7550,9 +7550,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 107064,
+                    "startOffset": 107054,
                     "endColumn": 93,
-                    "endOffset": 107153
+                    "endOffset": 107143
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7569,10 +7569,10 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 107158,
+                    "startOffset": 107148,
                     "endLine": 1403,
                     "endColumn": 12,
-                    "endOffset": 107293
+                    "endOffset": 107283
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7590,10 +7590,10 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 107298,
+                    "startOffset": 107288,
                     "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 107427
+                    "endOffset": 107417
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7611,9 +7611,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 107432,
+                    "startOffset": 107422,
                     "endColumn": 95,
-                    "endOffset": 107523
+                    "endOffset": 107513
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7630,9 +7630,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 107528,
+                    "startOffset": 107518,
                     "endColumn": 111,
-                    "endOffset": 107635
+                    "endOffset": 107625
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7649,9 +7649,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107640,
+                    "startOffset": 107630,
                     "endColumn": 99,
-                    "endOffset": 107735
+                    "endOffset": 107725
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7668,9 +7668,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 107740,
+                    "startOffset": 107730,
                     "endColumn": 115,
-                    "endOffset": 107851
+                    "endOffset": 107841
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7687,9 +7687,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 107856,
+                    "startOffset": 107846,
                     "endColumn": 95,
-                    "endOffset": 107947
+                    "endOffset": 107937
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7706,9 +7706,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 107952,
+                    "startOffset": 107942,
                     "endColumn": 111,
-                    "endOffset": 108059
+                    "endOffset": 108049
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7725,10 +7725,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 108064,
+                    "startOffset": 108054,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 108199
+                    "endOffset": 108189
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7746,9 +7746,9 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 108204,
+                    "startOffset": 108194,
                     "endColumn": 135,
-                    "endOffset": 108335
+                    "endOffset": 108325
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7765,10 +7765,10 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 108340,
+                    "startOffset": 108330,
                     "endLine": 1416,
                     "endColumn": 12,
-                    "endOffset": 108499
+                    "endOffset": 108489
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7786,9 +7786,9 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 108504,
+                    "startOffset": 108494,
                     "endColumn": 129,
-                    "endOffset": 108629
+                    "endOffset": 108619
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7805,10 +7805,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 108634,
+                    "startOffset": 108624,
                     "endLine": 1419,
                     "endColumn": 12,
-                    "endOffset": 108787
+                    "endOffset": 108777
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7826,10 +7826,10 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 108792,
+                    "startOffset": 108782,
                     "endLine": 1421,
                     "endColumn": 12,
-                    "endOffset": 108937
+                    "endOffset": 108927
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7847,9 +7847,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108942,
+                    "startOffset": 108932,
                     "endColumn": 140,
-                    "endOffset": 109078
+                    "endOffset": 109068
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7866,10 +7866,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 109083,
+                    "startOffset": 109073,
                     "endLine": 1424,
                     "endColumn": 12,
-                    "endOffset": 109222
+                    "endOffset": 109212
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7887,9 +7887,9 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 109227,
+                    "startOffset": 109217,
                     "endColumn": 134,
-                    "endOffset": 109357
+                    "endOffset": 109347
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7906,9 +7906,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109362,
+                    "startOffset": 109352,
                     "endColumn": 111,
-                    "endOffset": 109469
+                    "endOffset": 109459
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7925,9 +7925,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 109474,
+                    "startOffset": 109464,
                     "endColumn": 127,
-                    "endOffset": 109597
+                    "endOffset": 109587
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7944,10 +7944,10 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 109602,
+                    "startOffset": 109592,
                     "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 109733
+                    "endOffset": 109723
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7965,10 +7965,10 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 109738,
+                    "startOffset": 109728,
                     "endLine": 1431,
                     "endColumn": 12,
-                    "endOffset": 109875
+                    "endOffset": 109865
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7986,10 +7986,10 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 109880,
+                    "startOffset": 109870,
                     "endLine": 1433,
                     "endColumn": 12,
-                    "endOffset": 110017
+                    "endOffset": 110007
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8007,9 +8007,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 110022,
+                    "startOffset": 110012,
                     "endColumn": 111,
-                    "endOffset": 110129
+                    "endOffset": 110119
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8026,9 +8026,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 110134,
+                    "startOffset": 110124,
                     "endColumn": 139,
-                    "endOffset": 110269
+                    "endOffset": 110259
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8045,9 +8045,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 110274,
+                    "startOffset": 110264,
                     "endColumn": 67,
-                    "endOffset": 110337
+                    "endOffset": 110327
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8064,9 +8064,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 110342,
+                    "startOffset": 110332,
                     "endColumn": 72,
-                    "endOffset": 110410
+                    "endOffset": 110400
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8083,9 +8083,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 110415,
+                    "startOffset": 110405,
                     "endColumn": 73,
-                    "endOffset": 110484
+                    "endOffset": 110474
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8102,9 +8102,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 110489,
+                    "startOffset": 110479,
                     "endColumn": 72,
-                    "endOffset": 110557
+                    "endOffset": 110547
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8121,9 +8121,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 110562,
+                    "startOffset": 110552,
                     "endColumn": 73,
-                    "endOffset": 110631
+                    "endOffset": 110621
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8140,10 +8140,10 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 110636,
+                    "startOffset": 110626,
                     "endLine": 1442,
                     "endColumn": 12,
-                    "endOffset": 110777
+                    "endOffset": 110767
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8161,10 +8161,10 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 110782,
+                    "startOffset": 110772,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 110921
+                    "endOffset": 110911
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8182,10 +8182,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 110926,
+                    "startOffset": 110916,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 111059
+                    "endOffset": 111049
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8203,9 +8203,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 111064,
+                    "startOffset": 111054,
                     "endColumn": 25,
-                    "endOffset": 111085
+                    "endOffset": 111075
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8222,9 +8222,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 111090,
+                    "startOffset": 111080,
                     "endColumn": 65,
-                    "endOffset": 111151
+                    "endOffset": 111141
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8241,9 +8241,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 111156,
+                    "startOffset": 111146,
                     "endColumn": 89,
-                    "endOffset": 111241
+                    "endOffset": 111231
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8260,9 +8260,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 111246,
+                    "startOffset": 111236,
                     "endColumn": 79,
-                    "endOffset": 111321
+                    "endOffset": 111311
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8279,9 +8279,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 111326,
+                    "startOffset": 111316,
                     "endColumn": 91,
-                    "endOffset": 111413
+                    "endOffset": 111403
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8298,9 +8298,9 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 111418,
+                    "startOffset": 111408,
                     "endColumn": 97,
-                    "endOffset": 111511
+                    "endOffset": 111501
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8317,10 +8317,10 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 111516,
+                    "startOffset": 111506,
                     "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 111621
+                    "endOffset": 111611
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8338,9 +8338,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 111626,
+                    "startOffset": 111616,
                     "endColumn": 77,
-                    "endOffset": 111699
+                    "endOffset": 111689
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8357,9 +8357,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111704,
+                    "startOffset": 111694,
                     "endColumn": 105,
-                    "endOffset": 111805
+                    "endOffset": 111795
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8376,9 +8376,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 111810,
+                    "startOffset": 111800,
                     "endColumn": 91,
-                    "endOffset": 111897
+                    "endOffset": 111887
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8395,9 +8395,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111902,
+                    "startOffset": 111892,
                     "endColumn": 103,
-                    "endOffset": 112001
+                    "endOffset": 111991
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8414,9 +8414,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 112006,
+                    "startOffset": 111996,
                     "endColumn": 109,
-                    "endOffset": 112111
+                    "endOffset": 112101
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8433,10 +8433,10 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 112116,
+                    "startOffset": 112106,
                     "endLine": 1461,
                     "endColumn": 12,
-                    "endOffset": 112233
+                    "endOffset": 112223
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8454,10 +8454,10 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 112238,
+                    "startOffset": 112228,
                     "endLine": 1465,
                     "endColumn": 12,
-                    "endOffset": 112396
+                    "endOffset": 112386
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8475,10 +8475,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 112401,
+                    "startOffset": 112391,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 112553
+                    "endOffset": 112543
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8496,9 +8496,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 112558,
+                    "startOffset": 112548,
                     "endColumn": 34,
-                    "endOffset": 112588
+                    "endOffset": 112578
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8515,10 +8515,10 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 112593,
+                    "startOffset": 112583,
                     "endLine": 1477,
                     "endColumn": 10,
-                    "endOffset": 113006
+                    "endOffset": 112996
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8536,10 +8536,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 113011,
+                    "startOffset": 113001,
                     "endLine": 1484,
                     "endColumn": 10,
-                    "endOffset": 113384
+                    "endOffset": 113374
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8557,10 +8557,10 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 113389,
+                    "startOffset": 113379,
                     "endLine": 1487,
                     "endColumn": 10,
-                    "endOffset": 113561
+                    "endOffset": 113551
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8578,10 +8578,10 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 113566,
+                    "startOffset": 113556,
                     "endLine": 1490,
                     "endColumn": 10,
-                    "endOffset": 113740
+                    "endOffset": 113730
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8599,10 +8599,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 113745,
+                    "startOffset": 113735,
                     "endLine": 1493,
                     "endColumn": 12,
-                    "endOffset": 113923
+                    "endOffset": 113913
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8620,10 +8620,10 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 113928,
+                    "startOffset": 113918,
                     "endLine": 1499,
                     "endColumn": 12,
-                    "endOffset": 114288
+                    "endOffset": 114278
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
@@ -8641,9 +8641,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 114293,
+                    "startOffset": 114283,
                     "endColumn": 79,
-                    "endOffset": 114368
+                    "endOffset": 114358
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8660,9 +8660,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 114373,
+                    "startOffset": 114363,
                     "endColumn": 99,
-                    "endOffset": 114468
+                    "endOffset": 114458
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8679,9 +8679,9 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 114473,
+                    "startOffset": 114463,
                     "endColumn": 89,
-                    "endOffset": 114558
+                    "endOffset": 114548
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8698,9 +8698,9 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 114563,
+                    "startOffset": 114553,
                     "endColumn": 109,
-                    "endOffset": 114668
+                    "endOffset": 114658
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8717,9 +8717,9 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 114673,
+                    "startOffset": 114663,
                     "endColumn": 91,
-                    "endOffset": 114760
+                    "endOffset": 114750
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8736,10 +8736,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 114765,
+                    "startOffset": 114755,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 114860
+                    "endOffset": 114850
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8757,10 +8757,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 114865,
+                    "startOffset": 114855,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 114972
+                    "endOffset": 114962
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8778,10 +8778,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 114977,
+                    "startOffset": 114967,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 115086
+                    "endOffset": 115076
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8799,10 +8799,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 115091,
+                    "startOffset": 115081,
                     "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 115202
+                    "endOffset": 115192
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8820,10 +8820,10 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 115207,
+                    "startOffset": 115197,
                     "endLine": 1514,
                     "endColumn": 12,
-                    "endOffset": 115318
+                    "endOffset": 115308
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8841,9 +8841,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 115323,
+                    "startOffset": 115313,
                     "endColumn": 93,
-                    "endOffset": 115412
+                    "endOffset": 115402
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8860,9 +8860,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 115417,
+                    "startOffset": 115407,
                     "endColumn": 113,
-                    "endOffset": 115526
+                    "endOffset": 115516
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8879,9 +8879,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 115531,
+                    "startOffset": 115521,
                     "endColumn": 117,
-                    "endOffset": 115644
+                    "endOffset": 115634
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8898,10 +8898,10 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 115649,
+                    "startOffset": 115639,
                     "endLine": 1519,
                     "endColumn": 12,
-                    "endOffset": 115746
+                    "endOffset": 115736
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8919,10 +8919,10 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 115751,
+                    "startOffset": 115741,
                     "endLine": 1521,
                     "endColumn": 12,
-                    "endOffset": 115866
+                    "endOffset": 115856
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8940,10 +8940,10 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 115871,
+                    "startOffset": 115861,
                     "endLine": 1523,
                     "endColumn": 12,
-                    "endOffset": 115988
+                    "endOffset": 115978
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8961,9 +8961,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 115993,
+                    "startOffset": 115983,
                     "endColumn": 81,
-                    "endOffset": 116070
+                    "endOffset": 116060
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8980,9 +8980,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 116075,
+                    "startOffset": 116065,
                     "endColumn": 103,
-                    "endOffset": 116174
+                    "endOffset": 116164
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8999,9 +8999,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 116179,
+                    "startOffset": 116169,
                     "endColumn": 119,
-                    "endOffset": 116294
+                    "endOffset": 116284
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9018,9 +9018,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 116299,
+                    "startOffset": 116289,
                     "endColumn": 125,
-                    "endOffset": 116420
+                    "endOffset": 116410
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9037,9 +9037,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 116425,
+                    "startOffset": 116415,
                     "endColumn": 97,
-                    "endOffset": 116518
+                    "endOffset": 116508
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9056,9 +9056,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 116523,
+                    "startOffset": 116513,
                     "endColumn": 93,
-                    "endOffset": 116612
+                    "endOffset": 116602
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9075,9 +9075,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 116617,
+                    "startOffset": 116607,
                     "endColumn": 87,
-                    "endOffset": 116700
+                    "endOffset": 116690
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9094,9 +9094,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 116705,
+                    "startOffset": 116695,
                     "endColumn": 111,
-                    "endOffset": 116812
+                    "endOffset": 116802
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9113,9 +9113,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 116817,
+                    "startOffset": 116807,
                     "endColumn": 115,
-                    "endOffset": 116928
+                    "endOffset": 116918
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9132,9 +9132,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 116933,
+                    "startOffset": 116923,
                     "endColumn": 121,
-                    "endOffset": 117050
+                    "endOffset": 117040
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9151,9 +9151,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 117055,
+                    "startOffset": 117045,
                     "endColumn": 111,
-                    "endOffset": 117162
+                    "endOffset": 117152
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9170,10 +9170,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 117167,
+                    "startOffset": 117157,
                     "endLine": 1537,
                     "endColumn": 12,
-                    "endOffset": 117337
+                    "endOffset": 117327
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9191,9 +9191,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 117342,
+                    "startOffset": 117332,
                     "endColumn": 115,
-                    "endOffset": 117453
+                    "endOffset": 117443
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9210,9 +9210,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 117458,
+                    "startOffset": 117448,
                     "endColumn": 85,
-                    "endOffset": 117539
+                    "endOffset": 117529
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9229,10 +9229,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 117544,
+                    "startOffset": 117534,
                     "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 117651
+                    "endOffset": 117641
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9250,10 +9250,10 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 117656,
+                    "startOffset": 117646,
                     "endLine": 1543,
                     "endColumn": 12,
-                    "endOffset": 117775
+                    "endOffset": 117765
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9271,9 +9271,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 117780,
+                    "startOffset": 117770,
                     "endColumn": 66,
-                    "endOffset": 117842
+                    "endOffset": 117832
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9290,10 +9290,10 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 117847,
+                    "startOffset": 117837,
                     "endLine": 1546,
                     "endColumn": 12,
-                    "endOffset": 117968
+                    "endOffset": 117958
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9311,9 +9311,9 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 117973,
+                    "startOffset": 117963,
                     "endColumn": 67,
-                    "endOffset": 118036
+                    "endOffset": 118026
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9330,10 +9330,10 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 118041,
+                    "startOffset": 118031,
                     "endLine": 1549,
                     "endColumn": 12,
-                    "endOffset": 118164
+                    "endOffset": 118154
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9351,10 +9351,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 118169,
+                    "startOffset": 118159,
                     "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 118308
+                    "endOffset": 118298
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9372,10 +9372,10 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 118313,
+                    "startOffset": 118303,
                     "endLine": 1553,
                     "endColumn": 12,
-                    "endOffset": 118436
+                    "endOffset": 118426
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9393,9 +9393,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 118441,
+                    "startOffset": 118431,
                     "endColumn": 68,
-                    "endOffset": 118505
+                    "endOffset": 118495
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9412,9 +9412,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 118510,
+                    "startOffset": 118500,
                     "endColumn": 94,
-                    "endOffset": 118600
+                    "endOffset": 118590
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9431,9 +9431,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 118605,
+                    "startOffset": 118595,
                     "endColumn": 114,
-                    "endOffset": 118715
+                    "endOffset": 118705
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9450,9 +9450,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 118720,
+                    "startOffset": 118710,
                     "endColumn": 112,
-                    "endOffset": 118828
+                    "endOffset": 118818
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9469,9 +9469,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 118833,
+                    "startOffset": 118823,
                     "endColumn": 98,
-                    "endOffset": 118927
+                    "endOffset": 118917
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9488,9 +9488,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 118932,
+                    "startOffset": 118922,
                     "endColumn": 108,
-                    "endOffset": 119036
+                    "endOffset": 119026
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9507,9 +9507,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 119041,
+                    "startOffset": 119031,
                     "endColumn": 110,
-                    "endOffset": 119147
+                    "endOffset": 119137
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9526,9 +9526,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 119152,
+                    "startOffset": 119142,
                     "endColumn": 110,
-                    "endOffset": 119258
+                    "endOffset": 119248
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9545,9 +9545,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 119263,
+                    "startOffset": 119253,
                     "endColumn": 100,
-                    "endOffset": 119359
+                    "endOffset": 119349
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9564,9 +9564,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 119364,
+                    "startOffset": 119354,
                     "endColumn": 104,
-                    "endOffset": 119464
+                    "endOffset": 119454
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9583,10 +9583,10 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 119469,
+                    "startOffset": 119459,
                     "endLine": 1565,
                     "endColumn": 12,
-                    "endOffset": 119576
+                    "endOffset": 119566
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9604,10 +9604,10 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 119581,
+                    "startOffset": 119571,
                     "endLine": 1567,
                     "endColumn": 12,
-                    "endOffset": 119706
+                    "endOffset": 119696
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9625,9 +9625,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 119711,
+                    "startOffset": 119701,
                     "endColumn": 90,
-                    "endOffset": 119797
+                    "endOffset": 119787
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9644,9 +9644,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 119802,
+                    "startOffset": 119792,
                     "endColumn": 122,
-                    "endOffset": 119920
+                    "endOffset": 119910
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9663,10 +9663,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 119925,
+                    "startOffset": 119915,
                     "endLine": 1571,
                     "endColumn": 12,
-                    "endOffset": 120032
+                    "endOffset": 120022
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9684,9 +9684,9 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 120037,
+                    "startOffset": 120027,
                     "endColumn": 85,
-                    "endOffset": 120118
+                    "endOffset": 120108
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9703,9 +9703,9 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 120123,
+                    "startOffset": 120113,
                     "endColumn": 103,
-                    "endOffset": 120222
+                    "endOffset": 120212
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9722,10 +9722,10 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 120227,
+                    "startOffset": 120217,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 120330
+                    "endOffset": 120320
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9743,10 +9743,10 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 120335,
+                    "startOffset": 120325,
                     "endLine": 1577,
                     "endColumn": 12,
-                    "endOffset": 120430
+                    "endOffset": 120420
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9764,10 +9764,10 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 120435,
+                    "startOffset": 120425,
                     "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 120548
+                    "endOffset": 120538
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9785,10 +9785,10 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 120553,
+                    "startOffset": 120543,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 120652
+                    "endOffset": 120642
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9806,10 +9806,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 120657,
+                    "startOffset": 120647,
                     "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 120756
+                    "endOffset": 120746
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9827,10 +9827,10 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 120761,
+                    "startOffset": 120751,
                     "endLine": 1585,
                     "endColumn": 12,
-                    "endOffset": 120882
+                    "endOffset": 120872
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9848,9 +9848,9 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 120887,
+                    "startOffset": 120877,
                     "endColumn": 87,
-                    "endOffset": 120970
+                    "endOffset": 120960
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9867,9 +9867,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 120975,
+                    "startOffset": 120965,
                     "endColumn": 89,
-                    "endOffset": 121060
+                    "endOffset": 121050
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9886,9 +9886,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 121065,
+                    "startOffset": 121055,
                     "endColumn": 109,
-                    "endOffset": 121170
+                    "endOffset": 121160
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9905,9 +9905,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 121175,
+                    "startOffset": 121165,
                     "endColumn": 83,
-                    "endOffset": 121254
+                    "endOffset": 121244
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9924,9 +9924,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 121259,
+                    "startOffset": 121249,
                     "endColumn": 53,
-                    "endOffset": 121308
+                    "endOffset": 121298
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9943,9 +9943,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 121313,
+                    "startOffset": 121303,
                     "endColumn": 63,
-                    "endOffset": 121372
+                    "endOffset": 121362
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9962,9 +9962,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 121377,
+                    "startOffset": 121367,
                     "endColumn": 105,
-                    "endOffset": 121478
+                    "endOffset": 121468
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9981,9 +9981,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 121483,
+                    "startOffset": 121473,
                     "endColumn": 109,
-                    "endOffset": 121588
+                    "endOffset": 121578
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -10000,9 +10000,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 121593,
+                    "startOffset": 121583,
                     "endColumn": 83,
-                    "endOffset": 121672
+                    "endOffset": 121662
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -10019,9 +10019,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 121677,
+                    "startOffset": 121667,
                     "endColumn": 119,
-                    "endOffset": 121792
+                    "endOffset": 121782
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -10038,10 +10038,10 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 121797,
+                    "startOffset": 121787,
                     "endLine": 1605,
                     "endColumn": 10,
-                    "endOffset": 122233
+                    "endOffset": 122223
                 },
                 "from": {
                     "file": "/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/values/values.xml",
