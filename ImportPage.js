@@ -19,7 +19,9 @@ export default class ImportPage extends Component<{}> {
 
   _authorize = () => {
     const scope = encodeURIComponent("wallet:user:read,wallet:addresses:read,wallet:buys:read,wallet:deposits:read,wallet:sells:read,wallet:transactions:read,wallet:accounts:read,wallet:withdrawals:read,wallet:transactions:send");
-    const auth_link = "https://www.coinbase.com/oauth/authorize?client_id=263f6916563d418f2438b4165728028481dd9058ad2ad7fff022ff36848d05c4&redirect_uri=addr-app%3A%2F%2Fcoinbase-oauth&response_type=code&scope=" + scope;
+    const limits = "meta[send_limit_amount]=1&meta[send_limit_currency]=USD&meta[send_limit_period]=day";
+    const auth_link = "https://www.coinbase.com/oauth/authorize?client_id=263f6916563d418f2438b4165728028481dd9058ad2ad7fff022ff36848d05c4&redirect_uri=addr-app%3A%2F%2Fcoinbase-oauth&response_type=code&scope=" + scope + "&" + limits;
+    console.log(auth_link);
     Linking.openURL(auth_link).catch(err => console.error('An error occurred', err));
   }
 
@@ -42,7 +44,7 @@ export default class ImportPage extends Component<{}> {
   async _importWallet(code) {
     var { access_token, refresh_token } = await this._getToken(code);
     await AsyncStorage.setItem('refresh_token', refresh_token);
-    await this.processor._processCode(access_token); // alternatively, navigate to loading page
+    await this.processor.processCode(access_token); // alternatively, navigate to loading page
     // navigate to history page
     const { navigate } = this.props.navigation;
     navigate('History', {
