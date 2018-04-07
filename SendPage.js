@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {
   Text,
+  TextInput,
   View,
   StyleSheet,
   Button
@@ -15,8 +16,15 @@ export default class SendPage extends Component<{}> {
   constructor(props) {
     super(props);
     this.state = {
-      amount: ''
+      amount: '',
+      address: '',
     };
+
+    const { params } = this.props.navigation.state;
+    if (params) {
+      this.user = params.user;
+      this.access_token = params.access_token;
+    }
   }
 
   componentDidMount() {
@@ -41,10 +49,20 @@ export default class SendPage extends Component<{}> {
     return (
       <View style={styles.overall}>
         <View style={styles.addressSection}>
+          <Text>Type in the destination address</Text>
+          <View style={styles.addressInputContainer}>
+            <TextInput style={styles.addressInput}
+              onChangeText={(text) => this.setState({address: text})}
+              value={this.state.address}
+            />
+          </View>
         </View>
         <View style={styles.paySection}>
           <View style={styles.viewPort}>
-            <Text style={styles.amount}>{this.state.amount}</Text>
+            <Text>Type in the amount to send</Text>
+            <View style={styles.amountContainer}>
+              <Text style={styles.amount}>{this.state.amount}</Text>
+            </View>
           </View>
           <View style={styles.keyboardContainer}>
             <Keyboard
@@ -99,18 +117,32 @@ const styles = StyleSheet.create({
   },
   addressSection: {
     flex: 1,
-    backgroundColor: '#fff'
+    backgroundColor: '#fff',
   },
   paySection: {
     flex: 1,
     justifyContent: 'space-between'
   },
   amount: {
+    fontSize: 30,
+  },
+  amountContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   viewPort: {
+    flex: 1,
   },
   keyboardContainer: {
   },
   payButton: {
+  },
+  addressInput: {
+  },
+  addressInputContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
   }
 });
