@@ -74,7 +74,20 @@ export default class SendPage extends Component<{}> {
       );
       let data = await response.json();
       console.log(data);
-      this._toggleModal();
+      if (data.errors[0].id == 'invalid_request') {
+        Alert.alert(
+          'Error',
+          data.errors[0].message,
+          [
+            {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
+            {text: 'OK', onPress: () => console.log('OK Pressed')},
+          ],
+          { cancelable: false }
+        );
+      }
+      else {
+        this._toggleModal();
+      }
      } catch(error) {
       console.log(error);
     }
@@ -110,7 +123,7 @@ export default class SendPage extends Component<{}> {
         {text: 'OK', onPress: () => console.log('OK Pressed')},
       ],
       { cancelable: false }
-    )
+    );
     const { navigate } = this.props.navigation;
     navigate('Loading');
   }
