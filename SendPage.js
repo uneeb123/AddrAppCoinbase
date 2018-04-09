@@ -62,8 +62,8 @@ export default class SendPage extends Component<{}> {
       header.append('CB-VERSION', '2017-07-11');
       const form = new FormData();
       form.append('type', 'send');
-      form.append('to','3L5zW2rAcvV6CaypFBM2F7ZGCqMyZE4i89');
-      //form.append('to', this.state.address);
+      //form.append('to','3L5zW2rAcvV6CaypFBM2F7ZGCqMyZE4i89');
+      form.append('to', this.state.address);
       form.append('amount', this.state.amount);
       form.append('currency', 'BTC');
       let response = await fetch(
@@ -102,8 +102,8 @@ export default class SendPage extends Component<{}> {
     header.append('CB-2FA-TOKEN', this.state.confirmation);
     const form = new FormData();
     form.append('type', 'send');
-    form.append('to','3L5zW2rAcvV6CaypFBM2F7ZGCqMyZE4i89');
-//    form.append('to', this.state.address);
+    // form.append('to','3L5zW2rAcvV6CaypFBM2F7ZGCqMyZE4i89');
+    form.append('to', this.state.address);
     form.append('amount', this.state.amount);
     form.append('currency', 'BTC');
     let response = await fetch(
@@ -128,6 +128,7 @@ export default class SendPage extends Component<{}> {
       );
     }
     else {
+      this._toggleModal();
       Alert.alert(
         'Alert Title',
         'Transaction requested',
