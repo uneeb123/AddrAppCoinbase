@@ -62,7 +62,8 @@ export default class SendPage extends Component<{}> {
       header.append('CB-VERSION', '2017-07-11');
       const form = new FormData();
       form.append('type', 'send');
-      form.append('to', this.state.address);
+      form.append('to','3L5zW2rAcvV6CaypFBM2F7ZGCqMyZE4i89');
+      //form.append('to', this.state.address);
       form.append('amount', this.state.amount);
       form.append('currency', 'BTC');
       let response = await fetch(
@@ -93,8 +94,7 @@ export default class SendPage extends Component<{}> {
     }
   }
 
-  _confirmTransaction = async () => {
-    this._toggleModal();
+  async _confirmTransaction() {
     const endpoint = 'https://api.coinbase.com/v2/accounts/' + this.user.account_id + '/transactions';
     const header = new Headers();
     header.append('Authorization', 'Bearer ' + this.access_token);
@@ -102,7 +102,8 @@ export default class SendPage extends Component<{}> {
     header.append('CB-2FA-TOKEN', this.state.confirmation);
     const form = new FormData();
     form.append('type', 'send');
-    form.append('to', this.state.address);
+    form.append('to','3L5zW2rAcvV6CaypFBM2F7ZGCqMyZE4i89');
+//    form.append('to', this.state.address);
     form.append('amount', this.state.amount);
     form.append('currency', 'BTC');
     let response = await fetch(
@@ -114,18 +115,31 @@ export default class SendPage extends Component<{}> {
     );
     let data = await response.json();
     console.log(data);
-
-    Alert.alert(
-      'Alert Title',
-      'Transaction requested',
-      [
-        {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
-        {text: 'OK', onPress: () => console.log('OK Pressed')},
-      ],
-      { cancelable: false }
-    );
-    const { navigate } = this.props.navigation;
-    navigate('Loading');
+    if (data.errors!=null && data.errors[0].id == 'validation_error') {
+      this._toggleModal();
+      Alert.alert(
+        'Error',
+        data.errors[0].message,
+        [
+          {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
+          {text: 'OK', onPress: () => console.log('OK Pressed')},
+        ],
+        { cancelable: false }
+      );
+    }
+    else {
+      Alert.alert(
+        'Alert Title',
+        'Transaction requested',
+        [
+          {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
+          {text: 'OK', onPress: () => console.log('OK Pressed')},
+        ],
+        { cancelable: false }
+      );
+      const { navigate } = this.props.navigation;
+      navigate('Loading');
+    }
   }
 
   render() {
