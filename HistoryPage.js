@@ -34,9 +34,9 @@ export default class HistoryPage extends Component<{}> {
     return (
       <View style={styles.overall}>
         <View style={styles.account_container}>
-          <Text>Hello, {this.user.name}!</Text>
+          <Text style={styles.name}>Hello, {this.user.name}!</Text>
           <Text>Current balance: {this.user.balance} {this.user.currency_code}</Text>
-          <Text>Address: {this.user.address}</Text>
+          <Text>Address: {"\n" + this.user.address}</Text>
         </View>
         <View style={styles.history_container}>
           <HistoryTabs sent_history={this.transaction_history} buy_history={this.buy_history} />
@@ -61,5 +61,9 @@ const styles = StyleSheet.create({
   },
   overall: {
     flex: 1,
+  },
+  name: {
+    fontSize: 20,
+    fontWeight: "600",
   }
 });
