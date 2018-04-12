@@ -64,10 +64,10 @@ export default class HistoryTabs extends React.Component {
     super(props);
 
     this.sent_history = this.props.sent_history;
-    dup_buy_history = this.props.buy_history;
-    this.buy_history = dup_buy_history.filter(function(elem, pos) {
-      return dup_buy_history.indexOf(elem) == pos;
-    })
+    // Looks like buy/sell is a notion of Coinbase to represent some special transactions
+    // Addr does not support such transactions at the moment, for reference
+    // https://developers.coinbase.com/api/v2#transaction-resource
+    this.buy_history = this.props.buy_history;
   }
 
   _handleIndexChange = index => this.setState({ index });

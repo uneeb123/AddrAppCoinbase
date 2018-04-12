@@ -38,8 +38,7 @@ export default class TokenProcessor {
       buy.amount_BTC = raw.amount.amount;
       buy.amount_USD = raw.native_amount.amount;
       buy.create_date = raw.created_at;
-      this.buy_history.push(tx);
-
+      this.buy_history.push(buy);
     }
     else if (raw.type == 'send') {
       tx = {};

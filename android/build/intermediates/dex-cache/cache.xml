@@ -48,21 +48,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_bdc44da01ef9c6d4e5d14025d19eaf4580a414be.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="9236445249b688377917bbf182bb651ba5a9c5f1">
         <dex dex="/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.4_35830445962121f02e5deafa11d4034f6e35d8b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/uneeb123/Documents/Coinbase/AddrAppCoinbase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_bdc44da01ef9c6d4e5d14025d19eaf4580a414be.jar" />
     </item>
     <item
         is-multidex="false"
