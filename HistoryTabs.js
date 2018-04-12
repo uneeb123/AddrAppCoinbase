@@ -13,21 +13,23 @@ class Send extends React.Component {
   render() {
     let sentItem = this.props.item;
 
-    let address = <Text>Sent to: Address not found!</Text>;
+    let address = null;
     if (sentItem.to_address) {
       address = <Text>Sent to: {sentItem.to_address}</Text>;
     }
     let fee = <View />;
     if (sentItem.fee_BTC) {
-      fee = <Text>Fee: {sentItem.fee_BTC} BTC</Text>
+      fee = <Text style={styles.feeAmount}>Fee: {sentItem.fee_BTC} BTC</Text>
     }
     let create_date = sentItem.create_date.replace(/T/, ' ').replace(/Z/, '');
 
     return (
       <View style={styles.sendContainer}>
-        <Text>Transaction on {create_date}</Text>
-        <Text>Status is {sentItem.status}</Text>
-        <Text>Amount sent: {sentItem.amount_BTC} BTC</Text>
+        <View style={{ flexDirection: 'row' }}>
+          <Text style={styles.statusText}>{sentItem.status}</Text>
+          <Text style={styles.date}>{create_date}</Text>
+        </View>
+        <Text style={styles.amount}>{sentItem.amount_BTC} BTC</Text>
         {fee}
         {address}
       </View>
@@ -43,9 +45,12 @@ class Buy extends React.Component {
 
     return (
       <View style={styles.sendContainer}>
-        <Text>{tag} on {create_date}</Text>
-        <Text>Status is {sentItem.status}</Text>
-        <Text>Amount: {sentItem.amount_BTC} BTC</Text>
+        <View style={{ flexDirection: 'row' }}>
+          <Text style={styles.statusText}>{sentItem.status}</Text>
+          <Text style={styles.date}>{create_date}</Text>
+        </View>
+        <Text>{tag}</Text>
+        <Text style={styles.amount}>{sentItem.amount_BTC} BTC</Text>
       </View>
     );
   }
@@ -140,7 +145,6 @@ const styles = StyleSheet.create({
   },
   tabBar: {
     flexDirection: 'row',
-    paddingTop: 15,
   },
   tabItem: {
     flex: 1,
@@ -151,4 +155,19 @@ const styles = StyleSheet.create({
     padding: 10,
     borderBottomWidth: StyleSheet.hairlineWidth,
   },
+  date: {
+    flex: 1,
+    fontSize: 10,
+    textAlign: 'right',
+  },
+  statusText: {
+    flex: 1,
+    fontSize: 10,
+  },
+  amount: {
+    fontSize: 18,
+  },
+  feeAmount: {
+    fontSize: 14,
+  }
 });
