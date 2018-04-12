@@ -1,3 +1,4 @@
 android/app/my-release-key1.keystore
 android/app/build/*
+android/build/*
 android/.gradle/*
